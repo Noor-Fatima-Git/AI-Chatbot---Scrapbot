@@ -163,4 +163,4 @@ Built as a Final Year Project (FYP) — ScrapBot module developed by **Noor Fati
 
 ## License
 
-This project is part of an academic Final Year Project submission.
+This project is part of an academic Final Year Project.
