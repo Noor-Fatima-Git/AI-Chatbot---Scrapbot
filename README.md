@@ -157,7 +157,7 @@ ScrapBot is designed to connect to ScrapIt's live scraped database. Once the scr
 
 ## Team
 
-Built as a Final Year Project (FYP) — ScrapBot module developed by **Talha**, integrated into the larger **ScrapIt** platform.
+Built as a Final Year Project (FYP) — ScrapBot module developed by **Noor Fatima**, integrated into the larger **ScrapIt** platform.
 
 ---
 
