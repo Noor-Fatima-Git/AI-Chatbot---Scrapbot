@@ -1,0 +1,22 @@
+[
+  {
+    "id": "job_1",
+    "title": "Senior Python Developer",
+    "company": "TechSoft",
+    "location": "Islamabad",
+    "salary": "Rs 200,000",
+    "source": "careerokay",
+    "description": "Develop backend services in Python.",
+    "apply_link": "https://example.com/job1"
+  },
+  {
+    "id": "job_2",
+    "title": "Frontend Engineer",
+    "company": "Webify",
+    "location": "Karachi",
+    "salary": "Rs 180,000",
+    "source": "linkedin",
+    "description": "Build UI with React Native.",
+    "apply_link": "https://example.com/job2"
+  }
+]

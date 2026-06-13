@@ -1,0 +1,72 @@
+{
+  "products": {
+    "mobile": [
+      {"name": "Samsung Galaxy A52", "price": "PKR 65,000", "category": "Smartphone", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/samsung-galaxy-a52"},
+      {"name": "iPhone 13", "price": "PKR 200,000", "category": "Smartphone", "retailer": "Telemart.pk", "availability": "Limited Stock", "url": "https://www.telemart.pk/iphone-13"},
+      {"name": "Infinix Note 11", "price": "PKR 35,000", "category": "Smartphone", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/infinix-note-11"},
+      {"name": "Samsung Galaxy S23", "price": "PKR 280,000", "category": "Smartphone", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/samsung-galaxy-s23"},
+      {"name": "Xiaomi Redmi Note 12", "price": "PKR 45,000", "category": "Smartphone", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/xiaomi-redmi-note-12"},
+      {"name": "OPPO Reno 8", "price": "PKR 85,000", "category": "Smartphone", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/oppo-reno-8"},
+      {"name": "Vivo V27", "price": "PKR 75,000", "category": "Smartphone", "retailer": "Telemart.pk", "availability": "In Stock", "url": "https://www.telemart.pk/vivo-v27"},
+      {"name": "Realme C55", "price": "PKR 42,000", "category": "Smartphone", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/realme-c55"}
+    ],
+    "laptop": [
+      {"name": "HP Pavilion 15", "price": "PKR 120,000", "category": "Laptop", "retailer": "Shophive.com", "availability": "In Stock", "url": "https://shophive.com/hp-pavilion-15"},
+      {"name": "Dell XPS 13", "price": "PKR 250,000", "category": "Ultrabook", "retailer": "Daraz.pk", "availability": "Limited Stock", "url": "https://www.daraz.pk/products/dell-xps-13"},
+      {"name": "MacBook Air M1", "price": "PKR 220,000", "category": "Ultrabook", "retailer": "Telemart.pk", "availability": "In Stock", "url": "https://www.telemart.pk/macbook-air-m1"},
+      {"name": "Lenovo IdeaPad", "price": "PKR 95,000", "category": "Laptop", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/lenovo-ideapad"},
+      {"name": "ASUS VivoBook", "price": "PKR 105,000", "category": "Laptop", "retailer": "Shophive.com", "availability": "In Stock", "url": "https://shophive.com/asus-vivobook"},
+      {"name": "Acer Aspire 5", "price": "PKR 88,000", "category": "Laptop", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/acer-aspire-5"},
+      {"name": "MSI Gaming Laptop", "price": "PKR 180,000", "category": "Gaming Laptop", "retailer": "Shophive.com", "availability": "In Stock", "url": "https://shophive.com/msi-gaming-laptop"}
+    ],
+    "headphones": [
+      {"name": "Audionic Airbeats A-100", "price": "PKR 4,000", "category": "Wireless Headphones", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/audionic-airbeats"},
+      {"name": "Sony WH-1000XM4", "price": "PKR 55,000", "category": "Noise Cancelling", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/sony-wh1000xm4"},
+      {"name": "JBL Tune 510BT", "price": "PKR 6,500", "category": "Wireless Headphones", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/jbl-tune-510bt"},
+      {"name": "Apple AirPods Pro", "price": "PKR 65,000", "category": "Earbuds", "retailer": "Telemart.pk", "availability": "In Stock", "url": "https://www.telemart.pk/apple-airpods-pro"},
+      {"name": "Samsung Galaxy Buds", "price": "PKR 25,000", "category": "Earbuds", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/samsung-galaxy-buds"},
+      {"name": "Bose QC45", "price": "PKR 58,000", "category": "Noise Cancelling", "retailer": "Shophive.com", "availability": "Limited Stock", "url": "https://shophive.com/bose-qc45"}
+    ],
+    "watch": [
+      {"name": "Apple Watch Series 7", "price": "PKR 80,000", "category": "Smartwatch", "retailer": "Telemart.pk", "availability": "In Stock", "url": "https://www.telemart.pk/apple-watch-series-7"},
+      {"name": "Samsung Galaxy Watch 4", "price": "PKR 40,000", "category": "Smartwatch", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/samsung-galaxy-watch-4"},
+      {"name": "Xiaomi Mi Band 7", "price": "PKR 8,000", "category": "Fitness Band", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/xiaomi-mi-band-7"},
+      {"name": "Huawei Watch GT 3", "price": "PKR 35,000", "category": "Smartwatch", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/huawei-watch-gt3"},
+      {"name": "Amazfit GTR 4", "price": "PKR 28,000", "category": "Smartwatch", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/amazfit-gtr-4"}
+    ],
+    "tablet": [
+      {"name": "iPad 10th Gen", "price": "PKR 95,000", "category": "Tablet", "retailer": "Telemart.pk", "availability": "In Stock", "url": "https://www.telemart.pk/ipad-10th-gen"},
+      {"name": "Samsung Galaxy Tab S8", "price": "PKR 85,000", "category": "Tablet", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/samsung-galaxy-tab-s8"},
+      {"name": "Huawei MatePad", "price": "PKR 45,000", "category": "Tablet", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/huawei-matepad"},
+      {"name": "Lenovo Tab M10", "price": "PKR 32,000", "category": "Tablet", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/lenovo-tab-m10"}
+    ],
+    "camera": [
+      {"name": "Canon EOS R50", "price": "PKR 180,000", "category": "Mirrorless", "retailer": "Shophive.com", "availability": "In Stock", "url": "https://shophive.com/canon-eos-r50"},
+      {"name": "Sony A6400", "price": "PKR 220,000", "category": "Mirrorless", "retailer": "Daraz.pk", "availability": "Limited Stock", "url": "https://www.daraz.pk/products/sony-a6400"},
+      {"name": "Nikon D3500", "price": "PKR 95,000", "category": "DSLR", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/nikon-d3500"},
+      {"name": "GoPro Hero 12", "price": "PKR 75,000", "category": "Action Camera", "retailer": "Telemart.pk", "availability": "In Stock", "url": "https://www.telemart.pk/gopro-hero-12"}
+    ],
+    "tv": [
+      {"name": "Samsung 55\" Smart TV", "price": "PKR 120,000", "category": "Smart TV", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/samsung-55-smart-tv"},
+      {"name": "LG OLED 48\"", "price": "PKR 180,000", "category": "OLED TV", "retailer": "Shophive.com", "availability": "In Stock", "url": "https://shophive.com/lg-oled-48"},
+      {"name": "TCL 43\" Android TV", "price": "PKR 55,000", "category": "Smart TV", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/tcl-43-android-tv"},
+      {"name": "Haier 32\" LED", "price": "PKR 35,000", "category": "LED TV", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/haier-32-led"}
+    ],
+    "speaker": [
+      {"name": "JBL Flip 6", "price": "PKR 25,000", "category": "Portable Speaker", "retailer": "Daraz.pk", "availability": "In Stock", "url": "https://www.daraz.pk/products/jbl-flip-6"},
+      {"name": "Sony SRS-XB43", "price": "PKR 35,000", "category": "Bluetooth Speaker", "retailer": "PriceOye.pk", "availability": "In Stock", "url": "https://priceoye.pk/sony-srs-xb43"},
+      {"name": "Marshall Emberton", "price": "PKR 28,000", "category": "Portable Speaker", "retailer": "Telemart.pk", "availability": "In Stock", "url": "https://www.telemart.pk/marshall-emberton"}
+    ]
+  },
+  "shopping_sites": ["Daraz.pk", "PriceOye.pk", "Telemart.pk", "Shophive.com", "Amazon.pk"],
+  "category_descriptions": {
+    "mobile": "Smartphones from budget to flagship.",
+    "laptop": "Laptops for work, study and gaming.",
+    "headphones": "Wireless and noise-cancelling headphones.",
+    "watch": "Smartwatches and fitness bands.",
+    "tablet": "Tablets for work and entertainment.",
+    "camera": "DSLR, mirrorless and action cameras.",
+    "tv": "Smart TVs and LED screens.",
+    "speaker": "Portable Bluetooth speakers."
+  }
+}

@@ -1,0 +1,406 @@
+text,intent
+hey,greeting
+hello,greeting
+hi,greeting
+good morning,greeting
+good evening,greeting
+good afternoon,greeting
+assalam o alaikum,greeting
+salaam,greeting
+aoa,greeting
+how are you,greeting
+whats up,greeting
+hey there,greeting
+hi there,greeting
+hello there,greeting
+hey scrapbot,greeting
+hi bot,greeting
+hello bot,greeting
+kese ho,greeting
+kaise ho,greeting
+salam,greeting
+greetings,greeting
+hey how are you,greeting
+hi how are you,greeting
+good day,greeting
+morning,greeting
+evening,greeting
+hello friend,greeting
+hey friend,greeting
+hi scrapbot,greeting
+namaste,greeting
+thanks,thanks
+thank you,thanks
+thankyou,thanks
+shukriya,thanks
+jazakallah,thanks
+jazak allah,thanks
+thanks a lot,thanks
+thank you so much,thanks
+appreciate it,thanks
+much appreciated,thanks
+ok thanks,thanks
+okay thanks,thanks
+thanks bot,thanks
+shukriya bhai,thanks
+bahut shukriya,thanks
+meherbani,thanks
+thanks for help,thanks
+thank you for your help,thanks
+great thanks,thanks
+perfect thanks,thanks
+done thanks,thanks
+ok shukriya,thanks
+theek hai shukriya,thanks
+shukran,thanks
+jazakAllah khair,thanks
+thanks scrapbot,thanks
+thank you scrapbot,thanks
+ok thank you,thanks
+okay thank you,thanks
+thanks buddy,thanks
+food,food
+eat,food
+hungry,food
+restaurant,food
+biryani,food
+pizza,food
+burger,food
+karahi,food
+nihari,food
+khana,food
+khaana,food
+dine,food
+delivery,food
+i am hungry,food
+i want biryani,food
+suggest food,food
+order food,food
+khaana chahiye,food
+mujhe biryani chahiye,food
+restaurant near me,food
+food delivery,food
+pizza order,food
+burger khana hai,food
+chinese food,food
+dinner suggestions,food
+lunch options,food
+best restaurant,food
+food in lahore,food
+biryani lahore,food
+want to eat,food
+khana order karo,food
+fast food,food
+bbq tonight,food
+ice cream,food
+desi food,food
+food recommend,food
+where to eat,food
+dine in,food
+order at home,food
+khaana kahan milega,food
+food in islamabad,food
+food karachi,food
+food rawalpindi,food
+mujhe khana chahiye,food
+kuch khana hai,food
+bhook lagi hai,food
+achha khaana,food
+sasta khaana,food
+biryani islamabad,food
+biryani karachi,food
+pizza islamabad,food
+burger lahore,food
+karahi lahore,food
+dine in lahore,food
+order food lahore,food
+job,job
+jobs,job
+career,job
+work,job
+employment,job
+salary,job
+nokri,job
+naukri,job
+rozgar,job
+vacancy,job
+hiring,job
+accountant,job
+i need a job,job
+software engineer jobs,job
+jobs in islamabad,job
+nokri chahiye,job
+mujhe job chahiye,job
+career opportunities,job
+accountant job,job
+remote work,job
+internship,job
+jobs in karachi,job
+jobs in lahore,job
+apply for job,job
+job search,job
+full time job,job
+part time work,job
+developer job,job
+data analyst position,job
+jobs near me,job
+job in rawalpindi,job
+marketing job,job
+HR vacancy,job
+teaching job,job
+engineering jobs,job
+finance career,job
+job opening,job
+engineer job,job
+teacher job,job
+nurse job,job
+job islamabad,job
+job lahore,job
+job karachi,job
+naukri chahiye,job
+kaam chahiye,job
+rozgar chahiye,job
+job dhundo,job
+mujhe kaam chahiye,job
+software job,job
+it job,job
+software engineer,job
+data analyst,job
+graphic designer,job
+marketing manager,job
+content writer,job
+sales executive,job
+electrical engineer,job
+mechanical engineer,job
+hr manager,job
+travel,travel
+trip,travel
+tour,travel
+visit,travel
+hunza,travel
+swat,travel
+murree,travel
+skardu,travel
+naran,travel
+hotel,travel
+flight,travel
+vacation,travel
+holiday,travel
+safar,travel
+tourism,travel
+abbottabad,travel
+nathia gali,travel
+shogran,travel
+book a flight,travel
+places to visit in hunza,travel
+hotels in murree,travel
+travel to swat,travel
+trip to hunza,travel
+vacation planning,travel
+tourist spots,travel
+flight booking,travel
+hotel reservation,travel
+visit murree,travel
+travel packages,travel
+best places to visit,travel
+trip planning,travel
+hunza tour,travel
+naran kaghan,travel
+skardu trip,travel
+travel islamabad,travel
+honeymoon trip,travel
+family vacation,travel
+sightseeing,travel
+safarnama,travel
+kahin ghoomne jana hai,travel
+trip suggest karo,travel
+mountain trip,travel
+travel guide,travel
+where to travel,travel
+holiday destination,travel
+ghoomna,travel
+janah hai,travel
+trip plan,travel
+kahan jain,travel
+car,automobiles
+cars,automobiles
+vehicle,automobiles
+honda,automobiles
+toyota,automobiles
+suzuki,automobiles
+gaari,automobiles
+gari,automobiles
+gaadi,automobiles
+auto,automobiles
+sedan,automobiles
+suv,automobiles
+hatchback,automobiles
+electric,automobiles
+pickup,automobiles
+automobile,automobiles
+buy a car,automobiles
+i want a car,automobiles
+honda civic,automobiles
+car under 50 lacs,automobiles
+suv recommendations,automobiles
+electric car,automobiles
+toyota corolla,automobiles
+car price,automobiles
+gaari chahiye,automobiles
+mujhe car chahiye,automobiles
+vehicle search,automobiles
+buy honda,automobiles
+car dealership,automobiles
+used car,automobiles
+new car,automobiles
+car financing,automobiles
+car rental,automobiles
+motorcycle,automobiles
+bike purchase,automobiles
+toyota fortuner,automobiles
+kia sportage,automobiles
+car comparison,automobiles
+auto showroom,automobiles
+cheap car,automobiles
+family car,automobiles
+mujhe gaari chahiye,automobiles
+sasti gaari,automobiles
+honda car,automobiles
+toyota car,automobiles
+car under 30 lacs,automobiles
+car under 40 lacs,automobiles
+pakwheels,automobiles
+olx car,automobiles
+car inquiry,automobiles
+property,real_estate
+house,real_estate
+flat,real_estate
+apartment,real_estate
+rent,real_estate
+plot,real_estate
+ghar,real_estate
+makaan,real_estate
+villa,real_estate
+real estate,real_estate
+zameen,real_estate
+property for rent,real_estate
+buy a house,real_estate
+apartment in islamabad,real_estate
+flat in lahore,real_estate
+ghar chahiye,real_estate
+ghar khareedna hai,real_estate
+rent apartment,real_estate
+house for sale,real_estate
+plot for sale,real_estate
+bahria town house,real_estate
+dha property,real_estate
+property search,real_estate
+2 bed apartment,real_estate
+5 marla house,real_estate
+rent flat karachi,real_estate
+property islamabad,real_estate
+villa for sale,real_estate
+commercial property,real_estate
+residential plot,real_estate
+rent house lahore,real_estate
+buy plot,real_estate
+property dealer,real_estate
+property inquiry,real_estate
+home for rent,real_estate
+marla house,real_estate
+kanal plot,real_estate
+real estate lahore,real_estate
+apartment rent,real_estate
+buy property,real_estate
+rent property,real_estate
+property lahore,real_estate
+property karachi,real_estate
+makaan chahiye,real_estate
+kiraya,real_estate
+rent flat,real_estate
+buy house islamabad,real_estate
+flat for rent,real_estate
+graana,real_estate
+olx property,real_estate
+buy home,real_estate
+buy apartment,real_estate
+mobile,ecommerce
+laptop,ecommerce
+phone,ecommerce
+headphones,ecommerce
+tablet,ecommerce
+camera,ecommerce
+watch,ecommerce
+tv,ecommerce
+speaker,ecommerce
+shop,ecommerce
+purchase,ecommerce
+product,ecommerce
+gadget,ecommerce
+electronic,ecommerce
+daraz,ecommerce
+priceoye,ecommerce
+amazon,ecommerce
+i want laptop,ecommerce
+buy a laptop,ecommerce
+need a mobile,ecommerce
+cheap products,ecommerce
+show me phones,ecommerce
+i want headphones,ecommerce
+buy smartphone,ecommerce
+ecommerce,ecommerce
+online shopping,ecommerce
+shop products,ecommerce
+need a tablet,ecommerce
+want to buy tv,ecommerce
+show me laptops,ecommerce
+mobile phone deals,ecommerce
+best phone deals,ecommerce
+daraz products,ecommerce
+priceoye mobile,ecommerce
+shopping,ecommerce
+i want to buy earphones,ecommerce
+need smartwatch,ecommerce
+product search,ecommerce
+show products,ecommerce
+buy electronics,ecommerce
+need camera,ecommerce
+e commerce,ecommerce
+online store,ecommerce
+cheap mobile,ecommerce
+best laptop,ecommerce
+buy mobile,ecommerce
+buy laptop,ecommerce
+buy headphones,ecommerce
+buy watch,ecommerce
+buy camera,ecommerce
+buy tablet,ecommerce
+buy tv,ecommerce
+under 90000,price_filter
+less than 50000,price_filter
+budget is 1 lakh,price_filter
+under 5000,price_filter
+below 100000,price_filter
+under 50 lacs,price_filter
+sasta,price_filter
+sasti,price_filter
+budget phone,price_filter
+affordable,price_filter
+under 20000,price_filter
+below 50000,price_filter
+under 1 lac,price_filter
+less than 1 lakh,price_filter
+price under 80000,price_filter
+budget 50000,price_filter
+max budget 90000,price_filter
+below 10 lac,price_filter
+sasta phone,price_filter
+sasta laptop,price_filter
+cheap laptop,price_filter
+under pkr 50000,price_filter
+budget under 60000,price_filter
+kam price,price_filter
+saste mein,price_filter
+low budget,price_filter
+economical,price_filter
+under 30000,price_filter

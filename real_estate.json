@@ -1,0 +1,24 @@
+{
+  "real_estate": {
+    "islamabad": [
+      {"title": "2-bed apartment F-11", "city": "islamabad", "area": "F-11", "type": "apartment", "bedrooms": 2, "mode": "rent", "price": "95000/month"},
+      {"title": "5 marla house G-13", "city": "islamabad", "area": "G-13", "type": "house", "marla": 5, "mode": "buy", "price": "2.8 crore"},
+      {"title": "3-bed apartment E-11", "city": "islamabad", "area": "E-11", "type": "apartment", "bedrooms": 3, "mode": "rent", "price": "130000/month"},
+      {"title": "10 marla house F-7", "city": "islamabad", "area": "F-7", "type": "house", "marla": 10, "mode": "buy", "price": "5.5 crore"}
+    ],
+    "lahore": [
+      {"title": "2-bed flat DHA Phase 5", "city": "lahore", "area": "DHA Phase 5", "type": "flat", "bedrooms": 2, "mode": "rent", "price": "85000/month"},
+      {"title": "10 marla house Bahria Town", "city": "lahore", "area": "Bahria Town", "type": "house", "marla": 10, "mode": "buy", "price": "3.5 crore"},
+      {"title": "3-bed apartment DHA Phase 6", "city": "lahore", "area": "DHA Phase 6", "type": "apartment", "bedrooms": 3, "mode": "rent", "price": "120000/month"}
+    ],
+    "karachi": [
+      {"title": "Apartment Clifton Block 5", "city": "karachi", "area": "Clifton Block 5", "type": "apartment", "mode": "rent", "price": "120000/month"},
+      {"title": "120 sq yard house Scheme 33", "city": "karachi", "area": "Scheme 33", "type": "house", "mode": "buy", "price": "2.1 crore"},
+      {"title": "2-bed flat DHA Karachi", "city": "karachi", "area": "DHA Phase 6", "type": "flat", "bedrooms": 2, "mode": "rent", "price": "95000/month"}
+    ],
+    "rawalpindi": [
+      {"title": "Flat Saddar Rawalpindi", "city": "rawalpindi", "area": "Saddar", "type": "flat", "mode": "rent", "price": "45000/month"},
+      {"title": "5 marla house Bahria Town Phase 8", "city": "rawalpindi", "area": "Bahria Town Phase 8", "type": "house", "marla": 5, "mode": "buy", "price": "1.8 crore"}
+    ]
+  }
+}

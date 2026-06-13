@@ -1,0 +1,139 @@
+{
+  "trips_places": {
+    "hunza": {
+      "about": "Hunza is famous for mountains, lakes and peaceful views. A must-visit for nature lovers.",
+      "best_time": "April to October",
+      "hotels": [
+        {"name": "Serena Hotel Hunza", "location": "Karimabad, Hunza", "price_range": "Rs 15000-25000"},
+        {"name": "Eagles Nest Hotel", "location": "Duikar, Hunza", "price_range": "Rs 10000-20000"},
+        {"name": "Hunza Embassy Hotel", "location": "Karimabad", "price_range": "Rs 8000-15000"},
+        {"name": "Darbar Hotel", "location": "Aliabad", "price_range": "Rs 6000-12000"},
+        {"name": "Hunza View Hotel", "location": "Karimabad", "price_range": "Rs 9000-18000"}
+      ],
+      "activities": [
+        {"name": "Attabad Lake Boating", "location": "Attabad Lake", "description": "Enjoy turquoise waters"},
+        {"name": "Baltit Fort Visit", "location": "Karimabad", "description": "Explore ancient history"},
+        {"name": "Rakaposhi View Point", "location": "Duikar", "description": "Sunrise and mountain views"},
+        {"name": "Eagle's Nest Hike", "location": "Duikar", "description": "Short trek with panoramic views"},
+        {"name": "Karimabad Bazaar", "location": "Karimabad", "description": "Local crafts and apricots"}
+      ]
+    },
+    "swat": {
+      "about": "Swat is known as the Switzerland of Pakistan. Valleys, waterfalls and green meadows.",
+      "best_time": "May to September",
+      "hotels": [
+        {"name": "Pearl Continental Hotel", "location": "Baidara, Swat", "price_range": "Rs 12000-20000"},
+        {"name": "Swat View Hotel", "location": "Mingora, Swat", "price_range": "Rs 8000-15000"},
+        {"name": "Swat Serena Hotel", "location": "Kalam Road", "price_range": "Rs 15000-25000"},
+        {"name": "Green Valley Hotel", "location": "Madyan", "price_range": "Rs 6000-11000"},
+        {"name": "White Palace Hotel", "location": "Marghazar", "price_range": "Rs 10000-18000"}
+      ],
+      "activities": [
+        {"name": "Malam Jabba Ski Resort", "location": "Malam Jabba", "description": "Skiing and Ziplining"},
+        {"name": "White Palace Museum", "location": "Marghazar", "description": "Historical landmark"},
+        {"name": "Kalam Valley Trip", "location": "Kalam", "description": "Waterfalls and lush valleys"},
+        {"name": "Mahodand Lake", "location": "Kalam", "description": "Lake and trekking"},
+        {"name": "Madyan Bazaar", "location": "Madyan", "description": "Local handicrafts and food"}
+      ]
+    },
+    "murree": {
+      "about": "Murree is popular for family trips and snowfall. Close to Islamabad.",
+      "best_time": "December to February",
+      "hotels": [
+        {"name": "PC Bhurban", "location": "Bhurban, Murree", "price_range": "Rs 20000-35000"},
+        {"name": "Hotel One Murree", "location": "Kuldana Road, Murree", "price_range": "Rs 10000-18000"},
+        {"name": "Residency Hotel", "location": "Mall Road", "price_range": "Rs 12000-22000"},
+        {"name": "Pine Hills Hotel", "location": "Lower Mall", "price_range": "Rs 8000-15000"},
+        {"name": "Murree Greens", "location": "Gharial", "price_range": "Rs 15000-28000"}
+      ],
+      "activities": [
+        {"name": "Mall Road Stroll", "location": "Murree Mall Road", "description": "Shopping and food"},
+        {"name": "Patriata Chairlift", "location": "New Murree", "description": "Scenic views"},
+        {"name": "Pindi Point", "location": "Murree", "description": "Viewpoint and cable car"},
+        {"name": "Kashmir Point", "location": "Murree", "description": "Sunset views"},
+        {"name": "Bhurban Golf Course", "location": "Bhurban", "description": "Golf and scenery"}
+      ]
+    },
+    "nathia gali": {
+      "about": "Nathia Gali is known for hiking trails and cool weather. Peaceful hill station.",
+      "best_time": "June to August",
+      "hotels": [
+        {"name": "Green Retreat Hotel", "location": "Nathia Gali Bazar", "price_range": "Rs 9000-16000"},
+        {"name": "Pine Top Hotel", "location": "Nathia Gali", "price_range": "Rs 7000-13000"},
+        {"name": "Galiat Inn", "location": "Nathia Gali Road", "price_range": "Rs 8000-15000"},
+        {"name": "Hill View Lodge", "location": "Dunga Gali", "price_range": "Rs 6000-11000"}
+      ],
+      "activities": [
+        {"name": "Mukshpuri Top Hike", "location": "Donga Gali-Mukshpuri Track", "description": "Hiking adventure"},
+        {"name": "Thandiani Road Trip", "location": "Thandiani", "description": "Scenic drive"},
+        {"name": "Dunga Gali Pipeline Track", "location": "Dunga Gali", "description": "Easy walk in pine forest"},
+        {"name": "Nathia Gali Bazaar", "location": "Nathia Gali", "description": "Local food and souvenirs"}
+      ]
+    },
+    "shogran": {
+      "about": "Shogran is famous for Siri Paye meadows. Ideal for short trips.",
+      "best_time": "May to September",
+      "hotels": [
+        {"name": "Pine Park Hotel", "location": "Shogran Valley", "price_range": "Rs 7000-12000"},
+        {"name": "Siri Paye Resort", "location": "Shogran", "price_range": "Rs 8000-14000"},
+        {"name": "Green Meadows Hotel", "location": "Shogran", "price_range": "Rs 6000-10000"},
+        {"name": "Shogran Heights", "location": "Shogran Road", "price_range": "Rs 9000-16000"}
+      ],
+      "activities": [
+        {"name": "Siri Paye Meadows Visit", "location": "Siri Paye", "description": "Lush green meadows"},
+        {"name": "Makra Peak Trek", "location": "Shogran", "description": "Trekking and views"},
+        {"name": "Horse Riding", "location": "Siri Paye", "description": "Ride through meadows"},
+        {"name": "Photography Spots", "location": "Shogran", "description": "Sunrise and landscape"}
+      ]
+    },
+    "abbottabad": {
+      "about": "Abbottabad has pleasant weather and greenery. Gateway to northern areas.",
+      "best_time": "March to October",
+      "hotels": [
+        {"name": "Hotel One Abbottabad", "location": "Mansehra Road", "price_range": "Rs 6000-10000"},
+        {"name": "Serena Hotel Abbottabad", "location": "Nathiagali Road", "price_range": "Rs 12000-20000"},
+        {"name": "Green Valley Resort", "location": "Thandiani Road", "price_range": "Rs 7000-12000"},
+        {"name": "Pine View Hotel", "location": "Jinnah Road", "price_range": "Rs 5000-9000"}
+      ],
+      "activities": [
+        {"name": "Ilyasi Mosque Visit", "location": "Ilyasi Masjid Road", "description": "Historic mosque with natural springs"},
+        {"name": "Shimla Peak", "location": "Abbottabad", "description": "Viewpoint and short hike"},
+        {"name": "Thandiani Trip", "location": "Thandiani", "description": "Cool weather and views"},
+        {"name": "Fawara Chowk", "location": "Abbottabad Cantt", "description": "Local landmark and food"}
+      ]
+    },
+    "naran": {
+      "about": "Naran is the gateway to Saif ul Malook and lush green valleys.",
+      "best_time": "May to September",
+      "hotels": [
+        {"name": "PTDC Motel Naran", "location": "Naran Bazar", "price_range": "Rs 8000-15000"},
+        {"name": "Green Palace Hotel", "location": "Naran", "price_range": "Rs 7000-13000"},
+        {"name": "River View Hotel", "location": "Kunhar River", "price_range": "Rs 9000-16000"},
+        {"name": "Mountain Lodge Naran", "location": "Naran Road", "price_range": "Rs 10000-18000"}
+      ],
+      "activities": [
+        {"name": "Saif ul Malook Lake", "location": "Naran", "description": "Famous lake and jeep ride"},
+        {"name": "Lulusar Lake", "location": "Naran-Kaghan", "description": "Scenic lake"},
+        {"name": "Babusar Pass", "location": "Naran", "description": "High-altitude pass"},
+        {"name": "Jeep Safari", "location": "Naran Valley", "description": "Valley tour"}
+      ]
+    },
+    "skardu": {
+      "about": "Skardu offers stunning views of K2 and other peaks. Adventure hub.",
+      "best_time": "April to October",
+      "hotels": [
+        {"name": "Shangrila Resort", "location": "Skardu", "price_range": "Rs 15000-30000"},
+        {"name": "K2 Motel", "location": "Skardu", "price_range": "Rs 10000-20000"},
+        {"name": "Baltistan Lodge", "location": "Skardu Town", "price_range": "Rs 8000-15000"},
+        {"name": "Mountain View Hotel", "location": "Skardu", "price_range": "Rs 9000-17000"}
+      ],
+      "activities": [
+        {"name": "Kachura Lakes", "location": "Skardu", "description": "Upper and Lower Kachura"},
+        {"name": "Shangrila Resort", "location": "Skardu", "description": "Resort and lake"},
+        {"name": "Deosai Plains", "location": "Skardu", "description": "Land of giants"},
+        {"name": "Shigar Fort", "location": "Shigar Valley", "description": "Historic fort"}
+      ]
+    }
+  },
+  "booking_sites": ["Airbnb", "Booking.com", "Agoda", "Sastaticket", "Bookme.pk", "TripAdvisor"]
+}

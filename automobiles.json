@@ -1,0 +1,63 @@
+{
+  "cars": {
+    "sedan": {
+      "description": "Sedans offer comfort and fuel efficiency for city and highway use.",
+      "models": [
+        {"name": "Toyota Corolla", "price": "PKR 45 - 60 lacs", "dealership_location": "Islamabad Club Road", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/toyota/corolla/"},
+        {"name": "Honda Civic", "price": "PKR 60 - 80 lacs", "dealership_location": "Blue Area Islamabad", "availability": "Pre-order", "url": "https://www.pakwheels.com/new-cars/honda/civic/"},
+        {"name": "Hyundai Elantra", "price": "PKR 50 - 70 lacs", "dealership_location": "G-10 Islamabad", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/hyundai/elantra/"},
+        {"name": "Toyota Camry", "price": "PKR 85 - 110 lacs", "dealership_location": "Lahore Defence", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/toyota/camry/"},
+        {"name": "Changan Alsvin", "price": "PKR 35 - 45 lacs", "dealership_location": "Karachi DHA", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/changan/alsvin/"},
+        {"name": "United Bravo", "price": "PKR 28 - 38 lacs", "dealership_location": "Rawalpindi Saddar", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/united/bravo/"}
+      ],
+      "price": "PKR 28 - 110 lacs",
+      "fuel": ["petrol", "hybrid"]
+    },
+    "suv": {
+      "description": "SUVs provide space ground clearance and versatility.",
+      "models": [
+        {"name": "Toyota Fortuner", "price": "PKR 90 - 150 lacs", "dealership_location": "Lahore Defence", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/toyota/fortuner/"},
+        {"name": "KIA Sportage", "price": "PKR 60 - 85 lacs", "dealership_location": "Karachi DHA", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/kia/sportage/"},
+        {"name": "Honda BR-V", "price": "PKR 50 - 75 lacs", "dealership_location": "Rawalpindi Saddar", "availability": "Pre-order", "url": "https://www.pakwheels.com/new-cars/honda/br-v/"},
+        {"name": "Haval H6", "price": "PKR 55 - 70 lacs", "dealership_location": "Lahore Gulberg", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/haval/h6/"},
+        {"name": "Changan Oshan X7", "price": "PKR 52 - 68 lacs", "dealership_location": "Karachi", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/changan/oshan-x7/"}
+      ],
+      "price": "PKR 45 - 350 lacs",
+      "fuel": ["petrol", "hybrid"]
+    },
+    "hatchback": {
+      "description": "Compact hatchbacks are economical and easy to park.",
+      "models": [
+        {"name": "Suzuki Alto", "price": "PKR 25 - 35 lacs", "dealership_location": "Islamabad I-9", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/suzuki/alto/"},
+        {"name": "Toyota Yaris", "price": "PKR 35 - 45 lacs", "dealership_location": "Rawalpindi Murree Road", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/toyota/yaris/"},
+        {"name": "Suzuki Cultus", "price": "PKR 28 - 38 lacs", "dealership_location": "Lahore", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/suzuki/cultus/"},
+        {"name": "Suzuki Wagon R", "price": "PKR 30 - 40 lacs", "dealership_location": "Karachi", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/suzuki/wagon-r/"},
+        {"name": "United Prince", "price": "PKR 22 - 32 lacs", "dealership_location": "Rawalpindi", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/united/prince/"}
+      ],
+      "price": "PKR 22 - 45 lacs",
+      "fuel": ["petrol"]
+    },
+    "electric": {
+      "description": "Electric vehicles with low running cost.",
+      "models": [
+        {"name": "MG ZS EV", "price": "PKR 90 - 100 lacs", "dealership_location": "Lahore Gulberg", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/mg/zs-ev/"},
+        {"name": "BYD Atto 3", "price": "PKR 95 - 115 lacs", "dealership_location": "Karachi DHA", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/byd/atto-3/"},
+        {"name": "Nissan Leaf", "price": "PKR 85 - 95 lacs", "dealership_location": "Islamabad", "availability": "Limited Stock", "url": "https://www.pakwheels.com/new-cars/nissan/leaf/"},
+        {"name": "Tesla Model 3", "price": "PKR 220 - 280 lacs", "dealership_location": "Lahore", "availability": "Pre-order", "url": "https://www.pakwheels.com/used-cars/search/-/mk_tesla/"}
+      ],
+      "price": "PKR 85 - 280 lacs",
+      "fuel": ["electric"]
+    },
+    "pickup": {
+      "description": "Pickups built for load-carrying and off-road use.",
+      "models": [
+        {"name": "Toyota Hilux", "price": "PKR 75 - 120 lacs", "dealership_location": "Lahore", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/toyota/hilux/"},
+        {"name": "Isuzu D-Max", "price": "PKR 65 - 95 lacs", "dealership_location": "Karachi", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/isuzu/d-max/"},
+        {"name": "Ford Ranger", "price": "PKR 85 - 130 lacs", "dealership_location": "Islamabad", "availability": "Pre-order", "url": "https://www.pakwheels.com/new-cars/ford/ranger/"},
+        {"name": "Mitsubishi L200", "price": "PKR 70 - 100 lacs", "dealership_location": "Rawalpindi", "availability": "In Stock", "url": "https://www.pakwheels.com/new-cars/mitsubishi/l200/"}
+      ],
+      "price": "PKR 65 - 130 lacs",
+      "fuel": ["diesel", "petrol"]
+    }
+  }
+}

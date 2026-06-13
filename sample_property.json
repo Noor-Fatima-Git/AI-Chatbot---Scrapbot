@@ -1,0 +1,22 @@
+[
+  {
+    "id": "property_1",
+    "title": "3 BHK Apartment in Islamabad",
+    "price": "12000000",
+    "currency": "PKR",
+    "location": "Islamabad",
+    "description": "Spacious 3 bedroom apartment with modern amenities.",
+    "source": "zameen",
+    "image_url": "https://example.com/property1.jpg"
+  },
+  {
+    "id": "property_2",
+    "title": "2 BHK House in Lahore",
+    "price": "8500000",
+    "currency": "PKR",
+    "location": "Lahore",
+    "description": "Cozy house in a quiet neighborhood.",
+    "source": "zameen",
+    "image_url": "https://example.com/property2.jpg"
+  }
+]

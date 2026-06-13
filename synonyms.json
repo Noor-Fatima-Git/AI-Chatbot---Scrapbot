@@ -1,0 +1,83 @@
+{
+  "cities": {
+    "isb": "islamabad",
+    "lhr": "lahore",
+    "khi": "karachi",
+    "rwp": "rawalpindi",
+    "pta": "peshawar",
+    "fsd": "faisalabad",
+    "multan": "multan",
+    "multa": "multan"
+  },
+  "products": {
+    "phone": "mobile",
+    "phones": "mobile",
+    "notebook": "laptop",
+    "notebooks": "laptop",
+    "headphone": "headphones",
+    "watches": "watch",
+    "mobiles": "mobile",
+    "tablets": "tablet",
+    "television": "tv",
+    "televisions": "tv",
+    "speakers": "speaker",
+    "cameras": "camera"
+  },
+  "jobs": {
+    "software dev": "software engineer",
+    "dev": "software engineer",
+    "developer": "software engineer",
+    "hr": "hr manager",
+    "marketing": "marketing manager",
+    "content": "content writer",
+    "writer": "content writer",
+    "sales": "sales executive",
+    "mech engineer": "mechanical engineer",
+    "electrical eng": "electrical engineer",
+    "data": "data analyst",
+    "graphic": "graphic designer",
+    "designer": "graphic designer",
+    "accounting": "accountant",
+    "teaching": "teacher",
+    "nursing": "nurse"
+  },
+  "food": {
+    "biryani": "biryani",
+    "burgers": "burger",
+    "pizzas": "pizza",
+    "icecream": "ice cream",
+    "ice creams": "ice cream",
+    "shakes": "shake",
+    "sundaes": "sundae",
+    "karahi": "karahi",
+    "nihari": "nihari",
+    "chinese": "chinese",
+    "bbq": "bbq",
+    "barbeque": "bbq",
+    "grill": "bbq"
+  },
+  "trips": {
+    "naran": "naran",
+    "nathia gali": "nathia gali",
+    "nathiagali": "nathia gali",
+    "gilgit": "gilgit",
+    "skardu": "skardu",
+    "hunza": "hunza",
+    "murree": "murree",
+    "swat": "swat",
+    "shogran": "shogran",
+    "abbottabad": "abbottabad",
+    "abbotabad": "abbottabad"
+  },
+  "automobiles": {
+    "car": "sedan",
+    "cars": "sedan",
+    "suvs": "suv",
+    "hatchbacks": "hatchback",
+    "electric car": "electric",
+    "ev": "electric",
+    "pickups": "pickup",
+    "truck": "pickup",
+    "trucks": "pickup"
+  }
+}

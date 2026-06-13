@@ -1,0 +1,31 @@
+{
+  "cities": [
+    "karachi", "islamabad", "lahore", "multan", "peshawar",
+    "rawalpindi", "faisalabad", "sialkot", "quetta", "gwadar"
+  ],
+  "city_aliases": {
+    "isb": "islamabad",
+    "lhr": "lahore",
+    "khi": "karachi",
+    "rwp": "rawalpindi",
+    "pta": "peshawar",
+    "fsd": "faisalabad"
+  },
+  "airlines": {
+    "economy": ["PIA", "Airblue", "Serene Air", "Fly Jinnah", "Air Sial", "Pakistan International Airlines"],
+    "business": ["PIA", "Airblue", "Serene Air"],
+    "premium_economy": ["PIA", "Serene Air", "Airblue"]
+  },
+  "classes": ["economy", "business", "premium economy"],
+  "date_options": ["today", "tomorrow", "this week", "next week"],
+  "booking_sites": ["Google Flights", "Sastaticket", "Bookme.pk", "PIA", "Airblue", "Fly Jinnah"],
+  "price_range": "PKR 12,000 – 45,000 (domestic, varies by route and date)",
+  "popular_routes": [
+    "Karachi – Islamabad",
+    "Lahore – Karachi",
+    "Islamabad – Karachi",
+    "Lahore – Islamabad",
+    "Multan – Karachi",
+    "Peshawar – Islamabad"
+  ]
+}

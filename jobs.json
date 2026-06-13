@@ -1,0 +1,75 @@
+{
+  "jobs_db": {
+    "software engineer": [
+      {"company": "Systems Ltd", "city": "islamabad", "salary": 150000, "experience": "2+ years", "job_type": "full-time", "url": "https://www.linkedin.com/jobs/search/?keywords=software+engineer&location=Islamabad"},
+      {"company": "NetSol", "city": "rawalpindi", "salary": 120000, "experience": "1+ years", "job_type": "full-time", "url": "https://rozee.pk/job/software-engineer-netsol"},
+      {"company": "Techlogix", "city": "lahore", "salary": 140000, "url": "https://www.linkedin.com/jobs/search/?keywords=software+engineer&location=Lahore"},
+      {"company": "10Pearls", "city": "islamabad", "salary": 160000, "url": "https://rozee.pk/job/software-engineer-10pearls"},
+      {"company": "Contour Software", "city": "lahore", "salary": 145000, "url": "https://www.linkedin.com/company/contour-software/jobs/"},
+      {"company": "Folio3", "city": "karachi", "salary": 135000, "url": "https://rozee.pk/job/software-engineer-folio3"},
+      {"company": "Arbisoft", "city": "lahore", "salary": 155000, "experience": "3+ years", "job_type": "full-time", "url": "https://arbisoft.com/careers/"}
+    ],
+    "teacher": [
+      {"company": "Beaconhouse", "city": "islamabad", "salary": 60000, "url": "https://rozee.pk/job/teacher-beaconhouse-islamabad"},
+      {"company": "Roots School", "city": "rawalpindi", "salary": 55000, "url": "https://rozee.pk/job/teacher-roots-rawalpindi"},
+      {"company": "Lahore Grammar School", "city": "lahore", "salary": 65000, "url": "https://rozee.pk/job/teacher-lgs-lahore"},
+      {"company": "Karachi Grammar", "city": "karachi", "salary": 62000, "url": "https://rozee.pk/job/teacher-kgs-karachi"},
+      {"company": "Froebel's", "city": "islamabad", "salary": 58000, "url": "https://rozee.pk/job/teacher-froebels-islamabad"}
+    ],
+    "accountant": [
+      {"company": "KPMG", "city": "lahore", "salary": 120000, "url": "https://www.linkedin.com/jobs/search/?keywords=accountant&location=Lahore"},
+      {"company": "Deloitte", "city": "karachi", "salary": 115000, "url": "https://www.linkedin.com/jobs/search/?keywords=accountant&location=Karachi"},
+      {"company": "EY", "city": "islamabad", "salary": 110000, "url": "https://rozee.pk/job/accountant-ey-islamabad"},
+      {"company": "Private Firm", "city": "rawalpindi", "salary": 80000, "url": "https://rozee.pk/job/accountant-rawalpindi"}
+    ],
+    "graphic designer": [
+      {"company": "Creative Agency", "city": "islamabad", "salary": 70000, "url": "https://rozee.pk/job/graphic-designer-islamabad"},
+      {"company": "Design Studio", "city": "lahore", "salary": 75000, "url": "https://www.linkedin.com/jobs/search/?keywords=graphic+designer&location=Lahore"},
+      {"company": "Digital Marketing Co", "city": "karachi", "salary": 72000, "url": "https://rozee.pk/job/graphic-designer-karachi"},
+      {"company": "Adcom", "city": "rawalpindi", "salary": 65000, "url": "https://rozee.pk/job/graphic-designer-rawalpindi"}
+    ],
+    "data analyst": [
+      {"company": "TechSoft", "city": "lahore", "salary": 130000, "url": "https://www.linkedin.com/jobs/search/?keywords=data+analyst&location=Lahore"},
+      {"company": "Systems Ltd", "city": "islamabad", "salary": 125000, "url": "https://rozee.pk/job/data-analyst-systems-ltd"},
+      {"company": "Afiniti", "city": "islamabad", "salary": 150000, "url": "https://www.linkedin.com/company/afiniti/jobs/"},
+      {"company": "S&P Global", "city": "karachi", "salary": 140000, "url": "https://www.linkedin.com/jobs/search/?keywords=data+analyst&location=Karachi"}
+    ],
+    "marketing manager": [
+      {"company": "Unilever", "city": "karachi", "salary": 180000, "url": "https://www.linkedin.com/jobs/search/?keywords=marketing+manager&location=Karachi"},
+      {"company": "Nestle", "city": "lahore", "salary": 170000, "url": "https://rozee.pk/job/marketing-manager-nestle"},
+      {"company": "Jazz", "city": "islamabad", "salary": 200000, "url": "https://www.linkedin.com/company/jazz-pakistan/jobs/"},
+      {"company": "Telenor", "city": "islamabad", "salary": 190000, "url": "https://rozee.pk/job/marketing-manager-telenor"}
+    ],
+    "hr manager": [
+      {"company": "Systems Ltd", "city": "islamabad", "salary": 120000, "url": "https://rozee.pk/job/hr-manager-systems-ltd"},
+      {"company": "Engro", "city": "karachi", "salary": 150000, "url": "https://www.linkedin.com/company/engro-corporation/jobs/"},
+      {"company": "Fauji Foundation", "city": "rawalpindi", "salary": 110000, "url": "https://rozee.pk/job/hr-manager-fauji-rawalpindi"}
+    ],
+    "content writer": [
+      {"company": "Digital Agency", "city": "lahore", "salary": 55000, "url": "https://rozee.pk/job/content-writer-lahore"},
+      {"company": "Content Studio", "city": "islamabad", "salary": 60000, "url": "https://rozee.pk/job/content-writer-islamabad"},
+      {"company": "Dawn Media", "city": "karachi", "salary": 65000, "url": "https://www.linkedin.com/company/dawn-media/jobs/"}
+    ],
+    "sales executive": [
+      {"company": "Pharma Co", "city": "lahore", "salary": 70000, "url": "https://rozee.pk/job/sales-executive-lahore"},
+      {"company": "FMCG Distributor", "city": "karachi", "salary": 65000, "url": "https://rozee.pk/job/sales-executive-karachi"},
+      {"company": "Tech Sales", "city": "islamabad", "salary": 80000, "url": "https://rozee.pk/job/sales-executive-islamabad"}
+    ],
+    "nurse": [
+      {"company": "Shaukat Khanum", "city": "lahore", "salary": 75000, "url": "https://rozee.pk/job/nurse-shaukat-khanum"},
+      {"company": "AKUH", "city": "karachi", "salary": 85000, "url": "https://www.linkedin.com/company/aga-khan-university-hospital/jobs/"},
+      {"company": "Ali Medical", "city": "islamabad", "salary": 70000, "url": "https://rozee.pk/job/nurse-ali-medical-islamabad"}
+    ],
+    "mechanical engineer": [
+      {"company": "Fauji Fertilizer", "city": "rawalpindi", "salary": 95000, "url": "https://rozee.pk/job/mechanical-engineer-fauji"},
+      {"company": "OGDC", "city": "islamabad", "salary": 110000, "url": "https://www.linkedin.com/company/ogdcl/jobs/"},
+      {"company": "Engro", "city": "karachi", "salary": 105000, "url": "https://rozee.pk/job/mechanical-engineer-engro"}
+    ],
+    "electrical engineer": [
+      {"company": "WAPDA", "city": "lahore", "salary": 90000, "url": "https://rozee.pk/job/electrical-engineer-wapda"},
+      {"company": "K-Electric", "city": "karachi", "salary": 95000, "url": "https://www.linkedin.com/company/k-electric/jobs/"},
+      {"company": "NESPAK", "city": "islamabad", "salary": 100000, "url": "https://rozee.pk/job/electrical-engineer-nespak"}
+    ]
+  }
+}
+

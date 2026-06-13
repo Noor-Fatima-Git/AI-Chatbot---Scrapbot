@@ -1,0 +1,17 @@
+tkinter
+pytest
+
+numpy
+pandas
+scikit-learn
+nltk
+xgboost
+spacy
+sentence-transformers
+faiss-cpu
+python-dotenv
+fastapi
+uvicorn[standard]
+psycopg2-binary
+sqlalchemy
+asyncpg
